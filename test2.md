@@ -16,3 +16,5 @@ test branch test5
 test origin test6
 
 merge
+
+test origin 06
