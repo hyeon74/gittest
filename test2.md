@@ -14,3 +14,5 @@ test origin test5
 test branch test5
 
 test origin test6
+
+merge
