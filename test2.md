@@ -17,4 +17,6 @@ test origin test6
 
 merge
 
+test origin 06
+
 test branch 06
