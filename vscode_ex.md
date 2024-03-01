@@ -11,6 +11,9 @@
 - es6-string-html
 - JS Quick Console
 - JSDoc Generator
+- JavaScript Booster
+- JavaScript Snippet Pack
+- jQuery Code Snippets
 
 ### [html]
 - HTML CSS Support
