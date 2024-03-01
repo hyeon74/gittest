@@ -5,23 +5,24 @@
 - Sticky Scroll
 - Random Everything : 테스트값
 
-[js]
+### [js]
 - JavsScript (ES6) code snippets
 - Javascirpt Auto Backticks
 - es6-string-html
 - JS Quick Console
 - JSDoc Generator
 
-[html]
+### [html]
 - HTML CSS Support
 - Auto Close Tag
 - htmlragwrap
 - Close HTML/XML tag
 - image preview
 
-Tabout
+### 기타
+- Tabout
 
-color
+### color
 - sidebar.background
 - tab.inactiveBackground
 - panel.background
