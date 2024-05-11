@@ -1,2 +1,2 @@
-mergetest1-feature
+mergetest1-feature-master
 mergetest2-master
