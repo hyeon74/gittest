@@ -10,3 +10,7 @@ ff
 bb- del
 
 gg
+
+bb - del2
+
+hh
